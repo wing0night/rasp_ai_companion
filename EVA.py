@@ -19,7 +19,7 @@ class EVA(object):
 ********************************************************
 *          EVA - 基于树莓派的情感陪伴机器人          *
 *          (c) 2025 王晨翼 <wcy0590@gmail.com>                     *
-*     https://github.com/wing0night        *
+*     https://github.com/wing0night/rasp_ai_companion.git        *
 ********************************************************
 """)
         print("初始化中...")

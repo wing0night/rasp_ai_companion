@@ -75,6 +75,18 @@
 
 可以在Conversation类中测试摄像头、录音设备、数据库传输、AI对话等功能。但是树莓派翻墙还没做好，AI对话和supabase传输还不能使用
 
+rasp2文件夹中是另一个通过串口通讯连接的树莓派上运行的代码（这套体系本来想搭建在大象AGV和Cobot上）
+
+
+## 树莓派翻墙
+
+参考`https://github.com/Xizhe-Hao/Clash-for-RaspberryPi-4B.git`完成了树莓派翻墙
+
+
+`clash -d ~/.config/clash`
+
+
+因为树莓派上的python版本和pip下载的问题，代码还没在树莓派上运行
 
 
 
